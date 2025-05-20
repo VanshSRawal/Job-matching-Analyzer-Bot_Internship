@@ -17,3 +17,7 @@ TO run the .py file to run the Bot, open the anaconda prompt and run these lines
 4) conda activate cv-matching  (activates the environment in which the directory of the bot exists , in this case the environment is cv-matching)
 
 5) streamlit run app.py   (runs the .py file which contains the streamlit app framework that provides the frontend of the project, in this case the file name is app.py)
+
+
+DEMO Video :
+https://drive.google.com/file/d/1Dl7yAIIlosaSYKWnNU9qXTVGctPYsJap/view?usp=sharing
